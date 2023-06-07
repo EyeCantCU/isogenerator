@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.1](https://github.com/EyeCantCU/isogenerator/compare/v3.1.0...v3.1.1) (2023-06-07)
+
+
+### Bug Fixes
+
+* Properly integrate hidden grub menu ([f15b419](https://github.com/EyeCantCU/isogenerator/commit/f15b41935b346b9f1163b60a980bca2938f4aa6e))
+
 ## [3.1.0](https://github.com/EyeCantCU/isogenerator/compare/v3.0.0...v3.1.0) (2023-06-06)
 
 
