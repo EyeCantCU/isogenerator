@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.0](https://github.com/EyeCantCU/isogenerator/compare/v3.1.1...v3.2.0) (2023-06-07)
+
+
+### Features
+
+* Actually hide the grub menu ([826d26f](https://github.com/EyeCantCU/isogenerator/commit/826d26f9ca072adcc745b96f8051dcf9be5cb586))
+
 ## [3.1.1](https://github.com/EyeCantCU/isogenerator/compare/v3.1.0...v3.1.1) (2023-06-07)
 
 
