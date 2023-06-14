@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.0](https://github.com/EyeCantCU/isogenerator/compare/v3.2.0...v3.3.0) (2023-06-14)
+
+
+### Features
+
+* Try that again ([bd46c0f](https://github.com/EyeCantCU/isogenerator/commit/bd46c0fe69bf22e6ba14a2fdda6cd18ee9555a52))
+
 ## [3.2.0](https://github.com/EyeCantCU/isogenerator/compare/v3.1.1...v3.2.0) (2023-06-07)
 
 
