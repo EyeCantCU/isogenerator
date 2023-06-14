@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.1](https://github.com/EyeCantCU/isogenerator/compare/v3.3.0...v3.3.1) (2023-06-14)
+
+
+### Bug Fixes
+
+* Set menu_auto_hide later ([a3c9f8b](https://github.com/EyeCantCU/isogenerator/commit/a3c9f8bdf6866c4430f8bb8641c9d4f8f1c46d9f))
+
 ## [3.3.0](https://github.com/EyeCantCU/isogenerator/compare/v3.2.0...v3.3.0) (2023-06-14)
 
 
