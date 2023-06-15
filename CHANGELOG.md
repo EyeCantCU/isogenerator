@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/EyeCantCU/isogenerator/compare/v3.0.0...v3.1.0) (2023-06-15)
+
+
+### Features
+
+* Use separate entries in GRUB to verify installation media ([59bc708](https://github.com/EyeCantCU/isogenerator/commit/59bc7083f9cc3a1f1bac1f85db551abfe9b2d931))
+
 ## [3.0.0](https://github.com/EyeCantCU/isogenerator/compare/v2.0.2...v3.0.0) (2023-06-15)
 
 
